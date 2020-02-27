@@ -1,0 +1,11 @@
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/bin/Debug/netcoreapp3.1/LeapYearCalculator
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/bin/Debug/netcoreapp3.1/LeapYearCalculator.deps.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/bin/Debug/netcoreapp3.1/LeapYearCalculator.runtimeconfig.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/bin/Debug/netcoreapp3.1/LeapYearCalculator.runtimeconfig.dev.json
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/bin/Debug/netcoreapp3.1/LeapYearCalculator.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/bin/Debug/netcoreapp3.1/LeapYearCalculator.pdb
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/obj/Debug/netcoreapp3.1/LeapYearCalculator.csprojAssemblyReference.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/obj/Debug/netcoreapp3.1/LeapYearCalculator.AssemblyInfoInputs.cache
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/obj/Debug/netcoreapp3.1/LeapYearCalculator.AssemblyInfo.cs
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/obj/Debug/netcoreapp3.1/LeapYearCalculator.dll
+/Users/nguyenkhanhtung/Documents/NET 2020/Demo/LeapYearCalculator/obj/Debug/netcoreapp3.1/LeapYearCalculator.pdb
